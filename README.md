@@ -4,16 +4,16 @@
 
 目前漏洞学习记录
 
-[Fastjson反序列化漏洞](Fastjson远程代码执行)
+[Fastjson反序列化漏洞](Fastjson远程代码执行.md)
 
-[Jackson反序列化漏洞](Jackson反序列化漏洞)
+[Jackson反序列化漏洞](Jackson反序列化漏洞.md)
 
-[Dubbo反序列化漏洞](Dubbo反序列化漏洞)
+[Dubbo反序列化漏洞](Dubbo反序列化漏洞.md)
 
-[Shiro550反序列化漏洞](Shiro550反序列化漏洞)
+[Shiro550反序列化漏洞](Shiro550反序列化漏洞.md)
 
-[Thymeleaf模板注入](Thymeleaf模板注入)
+[Thymeleaf模板注入](Thymeleaf模板注入.md)
 
-[Shiro权限绕过漏洞](Shiro权限绕过漏洞汇总)
+[Shiro权限绕过漏洞](Shiro权限绕过漏洞汇总.md)
 
 ...
